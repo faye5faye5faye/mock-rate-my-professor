@@ -1,0 +1,31 @@
+{
+  "name": "faye5faye5faye5-final-project",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyu-csci-ua-0480-008-spring-2019/faye5faye5faye5-final-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyu-csci-ua-0480-008-spring-2019/faye5faye5faye5-final-project/issues"
+  },
+  "homepage": "https://github.com/nyu-csci-ua-0480-008-spring-2019/faye5faye5faye5-final-project#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "bootstrap": "^4.3.1",
+    "cookie-parser": "^1.4.4",
+    "express-session": "^1.16.1",
+    "jquery": "^3.4.0",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "passport-openid": "^0.4.0",
+    "popper.js": "^1.15.0",
+    "startbootstrap-freelancer": "^5.0.4"
+  }
+}
